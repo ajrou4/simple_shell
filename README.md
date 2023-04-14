@@ -39,8 +39,8 @@ ls -la
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
 ## Contributors :sunglasses::muscle:
-* [**rida labbiz**](https://github.com/ajrou4)
-* [**EL AMINE Ali**](https://github.com/Amytechie)
+* [**majrou**](https://github.com/ajrou4)
+* [**Amarachi Ukoha**](https://github.com/Amytechie)
 
 ## Acknowledgments :pray:
 - Our fellow cohort members.
