@@ -47,3 +47,4 @@ ls -la
 - The creators of the C language.
 - Our software engineer-in-residence.
 - Betty Holberton.
+A joint project on Shell Basics between Amara and Ajrou
