@@ -24,7 +24,7 @@ https://github.com/rlabbiz/simple_shell.git.
 Our shell was built and tested on  Ubuntu 14.04 LTS.
 
 ### Basic usage :bulb:
-- First, [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+
 - Then [clone it to your local machine](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 - Create an executable by running the following command:
 - `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
@@ -39,8 +39,8 @@ ls -la
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
 ## Contributors :sunglasses::muscle:
-* [**rida labbiz**](https://github.com/rlabbiz)
-* [**EL AMINE Ali**](https://github.com/root-07)
+* [**rida labbiz**](https://github.com/ajrou4)
+* [**EL AMINE Ali**](https://github.com/Amytechie)
 
 ## Acknowledgments :pray:
 - Our fellow cohort members.
