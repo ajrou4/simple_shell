@@ -1,8 +1,8 @@
 #include "shell.h"
 /**
 * main - carries out the read, execute then print output loop
-* @ac: argument count
-* @av: argument vector
+* @ac: argument for count
+* @av: argument for vector
 * @envp: environment vector
 *
 * Return: 0
