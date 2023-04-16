@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>README - Shell Implementation Project</title>
+	README - Shell Implementation Project
 </head>
 <body>
 	<h1>Project Description</h1>
