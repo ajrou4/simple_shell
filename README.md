@@ -1,50 +1,47 @@
-# 0x16. C - Simple Shell
+##Project Description
+This project is an implementation of a basic shell, similar to the Unix shell. The shell is a command-line interface that allows users to interact with the operating system by entering commands. The shell reads user input, interprets the command, and executes it.
 
-This project is an implementation of the shell created as the final project for the C code sprint at **ALX Africa**.
+This implementation of the shell is written in C and supports basic shell functionality such as executing commands, changing directories, and environment variables. It also supports background processes, input/output redirection, and pipeline commands.
 
-## Table of contents :clipboard:
+##Installation
+To install and run the shell, follow these steps:
 
- - [Description]
- - [Installation]
- - [Usage]
- - [Example]
- - [Contributors]
- - [Acknowledgements]
-## Description :e-mail:
-This is a shell written in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
-It is based on [the Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell).
+Clone this repository to your local machine using the following command:
+bash
+Copy code
+git clone https://github.com/ajrou4/shell-implementation.git
+Navigate to the project directory using the following command:
+bash
+Copy code
+cd shell-implementation
+Compile the program using the following command:
+go
+Copy code
+make
+Run the shell using the following command:
+bash
+Copy code
+./shell
+##Usage
+Once you have started the shell, you can enter commands in the following format:
 
-## Installation :wrench:
-Clone the below repository and compile the files into an executable using the GCC compiler.
-```
-https://github.com/ajrou4/simple_shell.git.
-```
-##Environment :evergreen_tree::evergreen_tree:
+bash
+Copy code
+command [arguments]
+You can also use the following special commands:
 
-Our shell was built and tested on  Ubuntu 14.04 LTS.
+cd [directory]: change the current working directory to the specified directory
+exit: exit the shell
+You can also use the following features:
 
-### Basic usage :bulb:
+&: run a command in the background
+>: redirect output to a file
+<: redirect input from a file
+|: pipe the output of one command as input to another command
+Contributors
+This project was created by the ALX Africa community as part of the C code sprint.
 
-- Then [clone it to your local machine](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-- Create an executable by running the following command:
-- `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
-- From there, type in the following command and press your enter button.
-- `./hsh`
-- Final step: ENJOY!
+Contributors include:
 
-## Example :computer:
-```
-ls -la
-```
-![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
-
-## Contributors :sunglasses::muscle:
-* [**majrou**](https://github.com/ajrou4)
-* [**Amarachi Ukoha**](https://github.com/Amytechie)
-
-## Acknowledgments :pray:
-- Our fellow cohort members.
-- The creators of the C language.
-- Our software engineer-in-residence.
-- Betty Holberton.
-A joint project on Shell Basics between Amara and Ajrou
+majrou (@ajrou4)
+Amara Ukoha(@Amytechie)
