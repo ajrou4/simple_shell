@@ -1,9 +1,9 @@
-##Project Description
+#Project Description
 This project is an implementation of a basic shell, similar to the Unix shell. The shell is a command-line interface that allows users to interact with the operating system by entering commands. The shell reads user input, interprets the command, and executes it.
 
 This implementation of the shell is written in C and supports basic shell functionality such as executing commands, changing directories, and environment variables. It also supports background processes, input/output redirection, and pipeline commands.
 
-##Installation
+#Installation
 To install and run the shell, follow these steps:
 
 Clone this repository to your local machine using the following command:
@@ -22,7 +22,7 @@ Run the shell using the following command:
 bash
 Copy code
 ./shell
-##Usage
+#Usage
 Once you have started the shell, you can enter commands in the following format:
 
 bash
