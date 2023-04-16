@@ -11,7 +11,7 @@
 <h2>Installation</h2>
 <ol>
 	<li>Clone this repository to your local machine using the following command:
-		<code>git clone https://github.com/&lt;ajrou4&gt;/shell-implementation.git</code></li>
+		<code>git clone https://github.com/ajrou4/shell-implementation.git</code></li>
 	<li>Navigate to the project directory using the following command:
 		<code>cd shell-implementation</code></li>
 	<li>Compile the program using the following command:
